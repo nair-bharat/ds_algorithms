@@ -1,10 +1,10 @@
 # ds_algorithms
 
-//sorting
+This repo is just to practice the data structures and algorithms studied 
 
-bubble_sort
-insertion_sort
-
-
-//searching
-binary_search
+The planned topics are:
+Searching algo
+Sorting algo
+Graphs
+Trees
+LL
