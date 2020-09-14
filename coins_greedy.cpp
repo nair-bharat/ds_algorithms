@@ -9,7 +9,7 @@ suppose we go to a stop and we buys items of Rs 91
 we are having notes of various denominations
 such as 1,2,5,10,20,50,100,500,1000
 
-so how we will give the money to shoopkeeper
+so how we will give the money to shopkeeper
 89 = 50 + 20 + 10 + 9
 so this algorithm will compute the denominations required
 
