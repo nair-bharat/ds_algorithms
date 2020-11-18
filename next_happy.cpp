@@ -11,6 +11,12 @@ class Solution{
 public:
     int nextHappy(int N){
         // code here
+        static int count = 1;
+
+        if (count == 1)
+        {
+            
+        }
         
         int sum = 0, digit;
         while (N > 0) {

@@ -11,7 +11,6 @@ void powerset(string str, int index){
         curr = curr + str[i];
         cout<<curr<<endl;
 
-    
     }
     if(index < str.size()){
 

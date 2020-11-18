@@ -9,7 +9,7 @@ class Node{
         Node *next;
 };
 
-
+void push(Node** head, )
 int main(){
 
     Node* head = NULL;
@@ -39,5 +39,7 @@ int main(){
         ptr = ptr->next;
 
     }
+
+    push
     return 0;
 }
